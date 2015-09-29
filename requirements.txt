@@ -1,1 +1,2 @@
-pip install -r tweepy
+tweepy == 3.4.0
+
